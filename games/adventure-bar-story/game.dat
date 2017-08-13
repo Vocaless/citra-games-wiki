@@ -1,0 +1,20 @@
+title = "Adventure Bar Story"
+description = "Adventure Bar Story is and RPG published by Circle Entertainment, Rideon.\n\nYou play as Siela, a girl who inherits a bar from her dead parents. One day, a guy named Gustav comes to your bar and asks you to sell it to him, so that he can build his new restaurant in front of the palace. You refused the offer and now you are determined to make your bar more successful than his. You will fight monsters to collect ingredients, unlock new areas, meet new people and eat to level up."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000160F00"
+region = "usa"
+release_date = "2015-02-19"
+
+[[testcases]]
+title = "0004000000160F00"
+compatibility = "0"
+date = "2017-08-12"
+version = "HEAD-343bbfd"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393.1593"
+author = "Vocaless"
